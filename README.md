@@ -8,6 +8,20 @@ Improving transparency in those organizations will improve the trust from people
 Likewise, having full transaction visibility will allow to identify irregularities within an organization, this creates a better and more Ethic resource management 
 
 
+## To run this project.
+ 
+ * Clone this repository.
+ 
+ * Install the following the dependencies with pip:
+      ```
+      pip3 install py-algorand-sdk
+      ```
+ * Run the AltruCoin Client with:
+      ```
+      python clienteCharity.py
+      ```
+
+
 ## Authors
 
   * Ricardo Peña Cuevas 
